@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2,3 python train_CMC_touch.py --model resnet50t2 --batch_size 128 --num_workers 24 --data_folder dataset/ --model_path ckpt/cmc --data_loader touch_and_go --learning_rate 0.05
