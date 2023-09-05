@@ -49,7 +49,7 @@ The checkpoints will be stored at `./ckpt/rough/`
 ## Todo
 - [x] Code for visuo-tactile CMC pretraining
 - [x] Code for downstream tasks on Touch and Go dataset (i.e. material classification, hard/soft and rough/smooth classification)
-- [] Pretrained model via our pretraining
+- [ ] Pretrained model via our pretraining
 
 ### Citation
 If you use this code for your research, please cite our [paper](hhttps://arxiv.org/pdf/2211.12498.pdf).
